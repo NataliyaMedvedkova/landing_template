@@ -132,14 +132,18 @@ main .main_about {
 .name {
     font-style: 20px;
     margin-bottom: 7px;
+    font-weight: bold;
 }
 .position {
     font-style: 16px;
     margin-bottom: 35px;
+    font-weight: lighter;
 }
 .about_position {
     font-style: 14px;
+    font-weight: lighter;
 }
+
 
 
 
